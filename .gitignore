@@ -1,2 +1,3 @@
 django_profiler.egg-info
 *.pyc
+good_profiler_middleware.egg-info
